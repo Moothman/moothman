@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Osman</h1>
-<h3 align="center">A passionate DevOps Engineer from Cairo</h3>
+<h3 align="center">A passionate System Adiminstrator from Cairo</h3>
 
-- 🌱 I’m currently learning **AWS re/Start program at ITI**
+- 🌱 I’m currently Working as a **System Admin at YKK**
 
 - 📫 How to reach me **mosman.esmail@gmail.com**
 
